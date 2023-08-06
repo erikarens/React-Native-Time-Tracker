@@ -1,0 +1,26 @@
+{
+  "name": "react-native-time-tracker",
+  "version": "1.0.0",
+  "description": "A react native package to track times for a specific task or a project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native-time-tracker",
+    "react",
+    "react-native",
+    "time-tracker",
+    "time-tracking"
+  ],
+  "author": "Erik Arens",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "^0.72.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "prettier": "^3.0.0"
+  }
+}
